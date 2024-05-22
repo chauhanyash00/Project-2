@@ -18,3 +18,9 @@ button{
     color: black;
     cursor: pointer;
 }
+
+img{
+    width: 50%;
+    border-radius: 20px;
+    height: auto;
+}
