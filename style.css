@@ -3,6 +3,7 @@ body{
     margin: 0;
     box-sizing: border-box;
     text-align: center;
+    background-color: black;
 }
 
 h1{
@@ -23,4 +24,9 @@ img{
     width: 50%;
     border-radius: 20px;
     height: auto;
+}
+
+img{
+    width: 50%;
+    border-radius: 20px;
 }
