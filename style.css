@@ -3,6 +3,7 @@ body{
     margin: 0;
     box-sizing: border-box;
     text-align: center;
+    background-color: black;
 }
 
 h1{
@@ -17,4 +18,9 @@ button{
     background-color: lightblue;
     color: black;
     cursor: pointer;
+}
+
+img{
+    width: 50%;
+    border-radius: 20px;
 }
